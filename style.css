@@ -1,0 +1,20 @@
+body{
+  background:aqua;
+    text-align:center;
+}
+h1{
+ color:blueviolet;
+}
+div{
+    margin-top:15px;
+}
+
+.outer{
+    display:flex;
+    justify-content: center;
+}
+.inner{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
